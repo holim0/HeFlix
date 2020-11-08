@@ -22,7 +22,7 @@
         "styled-reset": "^4.3.0",
         "web-vitals": "^0.2.4"
     },
-    "homepage": "https://lucid-torvalds-165006.netlify.app/",
+    // "homepage": "https://lucid-torvalds-165006.netlify.app/",
     "scripts": {
         "start": "cross-env NODE_PATH=src BROWSER='google chrome' react-scripts start",
         "build": "cross-env NODE_PATH=src BROWSER='google chrome' react-scripts build",
